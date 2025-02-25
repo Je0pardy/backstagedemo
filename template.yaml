@@ -65,6 +65,3 @@ spec:
       input:
         repoContentsUrl: ${{ steps['publish'].output.repoContentsUrl }}
         catalogInfoPath: '/catalog-info.yaml'
-
-
-        
